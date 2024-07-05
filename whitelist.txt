@@ -433,4 +433,4 @@
 @@||www.googleadservices.com^
 @@||www.kdukvh.com^
 @@||www.partner-ads.com^
-@@||analytics.google.com/analytics/web/#/a7110856p278720666/*
+@@||analytics.google.com^
