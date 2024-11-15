@@ -435,3 +435,4 @@
 @@||www.partner-ads.com^
 @@||analytics.google.com^
 @@||zion.qbo.intuit.com^
+@@||collector.github.com^
