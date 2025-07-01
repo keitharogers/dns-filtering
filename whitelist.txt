@@ -436,3 +436,4 @@
 @@||analytics.google.com^
 @@||zion.qbo.intuit.com^
 @@||collector.github.com^
+@@||console.aws.a2z.com^
